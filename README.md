@@ -1,1 +1,1 @@
-My first readme
+First time updating Read from github gui
